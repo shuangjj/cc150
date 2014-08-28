@@ -1,2 +1,5 @@
 # outputs
 *.class
+
+# temp
+*.swp
