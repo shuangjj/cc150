@@ -1,5 +1,5 @@
-
-class UniqChar {
+package cc150.chapter1.i1;
+class Test1i1 {
     public static void main(String args[]) {
         String str = args[0]; 
         if(isUnique(str)) {

@@ -1,3 +1,4 @@
+package cc150.chapter1.i2;
 class Test {
     public static void main(String args[]) {
         String str = "abcd";
