@@ -13,5 +13,5 @@ class Test {
         }
         return new String(strchars);
     }
-    
+
 }
